@@ -43,4 +43,4 @@ This project focuses on comprehensive customer behavior analysis within the digi
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/kshitijchavhan24/Digital-Banking-Customer-Behavior-Analytics.git
+   git clone https://github.com/kallyanipillewan1484/Digital-Banking-Customer-Behavior-Analytics.git
